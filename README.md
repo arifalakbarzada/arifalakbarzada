@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arifalakbarzada" alt="arifalakbarzada" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React,Redux**
 
 - 👨‍💻 All of my projects are available at [https://github.com/arifalakbarzada](https://github.com/arifalakbarzada)
 
