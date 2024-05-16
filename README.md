@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arif</h1>
-<h3 align="center">Frontend developer</h3>
+<h3 align="center">Front-End developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arifalakbarzada&label=Profile%20views&color=0e75b6&style=flat" alt="arifalakbarzada" /> </p>
 
